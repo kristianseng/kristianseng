@@ -1,11 +1,12 @@
 ### Hi there 👋
 
 
-Hello, my name is Kristians Engels and I am a master's student at Riga Technical University majoring in Information Technology. Technologies that I'm constantly learning to become a better java software engineer are Java, Spring, Maven, Hibernate, MySQL, Javascript, HTML/CSS/Bootstrap. Besides programming, I enjoy music and team sports.
+Hello, my name is Kristians Engels and I am a master's student at Riga Technical University majoring in Information Technology. Technologies that I'm focusing on to become a better software engineer are Java, Spring, Maven, Hibernate, MySQL, Javascript, HTML/CSS/Bootstrap. Besides programming, I enjoy music and team sports.
 
-- 💼 Looking for java development job
+- 💼 Looking for junior java development job
 - 🌱 Open to contribute to **Open Source**
-- ❤️ building fun experiments on type-level
+- 🔭 I’m currently learning Docker & Kubernetes
+- ❤️ to create solutions
 
 
 
@@ -29,7 +30,6 @@ Hello, my name is Kristians Engels and I am a master's student at Riga Technical
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
   <code><img title="npm" height="25" src="images/npm.svg"></code>
   
 </p>
