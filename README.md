@@ -6,7 +6,7 @@ Hello, my name is Kristians Engels and I am a master's student at Riga Technical
 - 💼 Looking for junior java development job
 - 🌱 Open to contribute to **Open Source**
 - 🔭 I’m currently learning Docker & Kubernetes
-- ❤️ to create solutions
+- ❤️ to learn & create solutions
 
 
 
