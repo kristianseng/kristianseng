@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Hello, my name is Kristians Engels and I am a master's student at Riga Tehnical University majoring in Information Technology. Technologies that I'm constantly learning to become a better java software engineer are Java, Spring, Maven, Hibernate, MySQL, Javascript, HTML/CSS/Bootstrap. Besides programming, I enjoy music and team sports.
+Hello, my name is Kristians Engels and I am a master's student at Riga Technical University majoring in Information Technology. Technologies that I'm constantly learning to become a better java software engineer are Java, Spring, Maven, Hibernate, MySQL, Javascript, HTML/CSS/Bootstrap. Besides programming, I enjoy music and team sports.
 
 - 💼 Looking for java development job
 - 🌱 Open to contribute to **Open Source**
@@ -10,26 +10,28 @@ Hello, my name is Kristians Engels and I am a master's student at Riga Tehnical 
 
 
 <hr>
-<h2 align="center"> Languages & Frameworks & Tools & Abilities </h2>
+<h2 align="center"> Languages used & Frameworks & Tools & Abilities </h2>
 <br>
 <p align="center">
+  
+  <code><img title="Java" height="25" src="images/java-original.svg"></code>
+  <code><img title="Spring" height="25" src="images/spring.png"></code>
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
   <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
+  <code><img title="JSON" height="25" src="images/json.svg"></code>
   <code><img title="React" height="25" src="images/react-original.svg"></code>
   <code><img title="Redux" height="25" src="images/redux.svg"></code>
   <code><img title="AngularJS" height="25" src="images/angularjs.png"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
   <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
-  <code><img title="Java" height="25" src="images/java-original.svg"></code>
-  <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
+  <code><img title="GitHub" height="25" src="images/github.svg"></code>
+  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
   <code><img title="npm" height="25" src="images/npm.svg"></code>
-
+  
 </p>
 <hr>
 
