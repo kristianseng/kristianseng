@@ -3,7 +3,7 @@
 
 Hello, my name is Kristians Engels and I am a master's student at Riga Technical University majoring in Information Technology. Technologies that I'm focusing on to become a better software engineer are Java, Spring, Maven, Hibernate, MySQL, HTML/CSS/JS. Besides programming, I enjoy music and team sports.
 
-- 💼 Looking for junior java development job
+- 💼 Looking for java work
 - 🌱 Open to contribute to **Open Source**
 - 🔭 I’m currently learning Docker & Kubernetes
 - ❤️ to learn & create solutions
